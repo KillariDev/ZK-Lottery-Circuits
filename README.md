@@ -1,1 +1,3 @@
 # ZK-Lottery-Circuits
+
+Zero Knowledge Lotteries Circuits in Circom language. The circuits are not audited and they are not intended to be used in production but just as an example case what you can do with Circom and Zero Knowledge proofs. Check [Zero Knowledge Lottery](https://killari.medium.com/zero-knowledge-lottery-437e456dc3f2) for explanation what Zero Knowledge lottery is and you can find an explanation of this implementation from [Implementing Zero Knowledge Lottery’s Circom circuits](https://killari.medium.com/implementing-zero-knowledge-lotterys-circom-circuits-part-1-2-16910b3732a2)
